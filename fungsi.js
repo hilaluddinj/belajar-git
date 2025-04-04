@@ -18,3 +18,6 @@ console.log(multiply(2, 8));
 
 const divided = (x, y) => x / y;
 console.log(divided(8, 2));
+
+const mathSin = (number) => Math.sin(number);
+console.log(mathSin(13));
